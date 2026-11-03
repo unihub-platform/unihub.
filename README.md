@@ -1,2 +1,0 @@
-# unihub.
-University events platform
